@@ -1,4 +1,4 @@
-# ⚡ DC-DC Buck Converter (12V ~ 6V)
+# DC-DC Buck Converter (12V ~ 6V)
 
 A high-efficiency **step-down (buck) converter** for converting a 12V DC voltage into a lower voltage using a PWM control technique.  
 
